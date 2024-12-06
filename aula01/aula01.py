@@ -1,0 +1,6 @@
+print('Hello, World!!')
+print('Bom dia a todos!')
+print('Um sorriso contagiante')
+print('Dois amores')
+print('Eu tenho um gato preto')
+print('Amo sorvete')
